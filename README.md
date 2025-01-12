@@ -15,5 +15,4 @@ Este projeto tem como objetivo ajudar indivíduos e empresas a controlar seus ga
 - **Microsoft Excel**: Para o armazenamento dos dados e controle de gastos.
 - **Fórmulas e Funções do Excel**: Utilizadas para automatizar os cálculos dentro da planilha.
 
-## Como Começar
 
